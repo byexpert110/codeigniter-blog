@@ -23,6 +23,3 @@ Username: medge Password: medge <br>
 # Requirements
 XAMPP server<br>
 Stable Internet Connection
-
-# Need help or have some suggestions ?
-Please feel free to ping me at my LinkedIn Profile :  https://www.linkedin.com/in/amit-r-gupta/ <br>
